@@ -36,6 +36,10 @@ String methods (upper(), lower())
 ✔ User-friendly prompts
 ✔ Exit option after each calculation
 
+<img width="1680" height="1050" alt="Screenshot 2026-02-11 at 11 41 34 PM" src="https://github.com/user-attachments/assets/1628da13-c7f2-498d-849a-956b654bc5e8" />
+
+
+
 ## 🧠 Concepts Implemented
 ### 🔹 1. User-Defined Functions
 
